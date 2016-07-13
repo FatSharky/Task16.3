@@ -1,0 +1,8 @@
+by.training.task16.lock.condition
+by.training.task16.lock.lock
+by.training.task16.lock.read_write_lock
+by.training.task16.synchronizer.count_down_latch
+by.training.task16.synchronizer.cyclic_barrier
+by.training.task16.synchronizer.exchanger
+by.training.task16.synchronizer.phaser
+by.training.task16.synchronizer.semaphore
